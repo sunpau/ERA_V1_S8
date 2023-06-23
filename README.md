@@ -2,6 +2,8 @@
 The objective of the assignment is to observe the effect of different kind of Normalization using CIFAR 10 dataset
 
 - Loss using different Normalization
+  -  For batch size = 64, and keeping all the hyperparameters same,it is observed the Batch Normalization gives best accuracy for 20 epochs.
+  -  The performance of Group and Layer Norm is almost comaprable and loss is converging by 20 epochs.
   ![lossvsnorm](./Images/LossVsNorm.png)
   
 
