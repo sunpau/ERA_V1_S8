@@ -2,7 +2,7 @@
 The objective of the assignment is to observe the effect of different kind of Normalization using CIFAR 10 dataset
 
 - Loss using different Normalization
-  ![lossvsnorm](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LossVsNorm.png)
+  ![lossvsnorm](./Images/LossVsNorm.png)
   
 
 -  Batch Normalization
