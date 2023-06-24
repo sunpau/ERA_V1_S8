@@ -9,6 +9,9 @@ The objective of the assignment is to observe the effect of different kind of No
 
 -  Batch Normalization
    -  Best Train Accuracy: 79.91%   Best Test Accuracy: 77.58%
+   -  Architecture
+     
+      ![batchnormarch](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/BatchNorm.png)
    -  Summary
      
       ![batchsummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/BatchNormSummary.png)
@@ -21,6 +24,9 @@ The objective of the assignment is to observe the effect of different kind of No
 
 -  Layer Normalization
    -  Best Train Accuracy: 76.45%   Best Test Accuracy: 73.58%
+   -  Architecture
+     
+      ![layernorm](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNormArch.png)
    -  Summary
      
       ![layersummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNormSummary.png)
@@ -33,6 +39,9 @@ The objective of the assignment is to observe the effect of different kind of No
 
 -  Group Normalization - used Group Size: 8
    -  Best Train Accuracy: 76.29%   Best Test Accuracy: 73.96%
+    -  Architecture
+     
+      ![layernorm](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/GroupNormArch.png)
    -  Summary
      
       ![groupsummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/GroupNormSummary.png)
