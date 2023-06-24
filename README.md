@@ -26,7 +26,7 @@ The objective of the assignment is to observe the effect of different kind of No
    -  Best Train Accuracy: 76.45%   Best Test Accuracy: 73.58%
    -  Architecture
      
-      ![layernorm](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNormArch.png)
+      ![layernorm](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNorm.png)
    -  Summary
      
       ![layersummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNormSummary.png)
