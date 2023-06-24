@@ -10,6 +10,7 @@ The objective of the assignment is to observe the effect of different kind of No
 -  Batch Normalization
    -  Best Train Accuracy: 79.91%   Best Test Accuracy: 77.58%
    -  Summary
+     
       ![batchsummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/BatchNormSummary.png)
 
    -  Loss and Accuracy
@@ -21,6 +22,7 @@ The objective of the assignment is to observe the effect of different kind of No
 -  Layer Normalization
    -  Best Train Accuracy: 76.45%   Best Test Accuracy: 73.58%
    -  Summary
+     
       ![layersummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/LayerNormSummary.png)
 
    -  Loss and Accuracy
@@ -32,6 +34,7 @@ The objective of the assignment is to observe the effect of different kind of No
 -  Group Normalization - used Group Size: 8
    -  Best Train Accuracy: 76.29%   Best Test Accuracy: 73.96%
    -  Summary
+     
       ![groupsummary](https://github.com/sunpau/ERA_V1_S8/blob/main/Images/GroupNormSummary.png)
 
    -  Loss and Accuracy
